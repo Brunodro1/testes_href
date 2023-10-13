@@ -1,5 +1,8 @@
 body {
     background: linear-gradient(to right, red 50%, black 50%);
+    color: white; /* Define a cor do texto como branco */
     height: 100vh;
     margin: 0;
+    font-family: Arial, sans-serif; /* Define a família da fonte, se desejado */
 }
+
